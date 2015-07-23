@@ -14,10 +14,12 @@ th.table-sortable {
 th.table-sorted-asc {
 	background-position:center left;
 	background-repeat:no-repeat;
+	background-position: 3px center;
 }
 th.table-sorted-desc {
 	background-position:center left;
 	background-repeat:no-repeat;
+	background-position: 3px center;
 }
 th.table-filtered {
 	background-position:center left;
@@ -56,4 +58,5 @@ tr.doc_section {
 	text-align:center;
 	background-color:#dddddd;
 }
+
 
